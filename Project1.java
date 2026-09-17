@@ -259,7 +259,7 @@ public class Project1 {
 			else if (userChoice == 9) {
 				names = option9(scnr);
 			}
-			else {
+			else if (userChoice != 0) {
 				System.out.println("Choice must be in range 0-9");
 			}
 		}
