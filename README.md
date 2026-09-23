@@ -8,7 +8,11 @@ Projects
 
 -Python Network Scanner
     A TCP port scanner built from scratch in Python to learn about socket programming, TCP connections, service detection, and concurrent network scanning.
-
+-Java Name List Manager
+   A Java console-based program that allows users to enter and manage a list of names. 
+   The program provides multiple menu options for sorting and displaying names, calculating statistics, 
+   identifying capitalization issues, finding the most frequent name, and entering new lists. 
+   This project demonstrates the use of arrays, strings, loops, methods, sorting, and user input in Java.
 
 
 I'm continuing to build projects focused on cybersecurity, networking, Linux, and programming as I expand my skills.
